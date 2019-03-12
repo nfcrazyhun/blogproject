@@ -17,7 +17,7 @@ Created by: Fölesi Péter
 ## Quick Start:
 Clone this repository and install the dependencies.
 
-$ git clone
+$ git clone https://github.com/nfcrazyhun/blogproject.git
 $ composer install
 
 Run the command below to initialize. Do not forget to configure your .env file.
